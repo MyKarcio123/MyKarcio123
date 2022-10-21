@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <h1>
     hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="background-color:grey"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
-I am a Computer Science <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Znak_graficzny_AGH.svg/2048px-Znak_graficzny_AGH.svg.png" width="30"> from Poland.
+I am a Computer Science <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Znak_graficzny_AGH.svg/2048px-Znak_graficzny_AGH.svg.png" width="30" style="background-color:white"> from Poland.
 - :telescope: I try to learn math in games as much as I can.
 
 - :zap: Working on a procedural world generator using voxel graphics, overlapping many different perlin noises, to obtain interesting effects <a href="https://github.com/MyKarcio123/MinecraftClone"> <img src="https://docs.unity3d.com/StaticFiles/ScriptRefImages/PerlinExample.png" width="30"> </a>.
