@@ -8,7 +8,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Computer Science <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Znak_graficzny_AGH.svg/2048px-Znak_graficzny_AGH.svg.png" width="30" style="background-color:white"> from Poland.
+I am a Computer Science student from Poland.
 - :telescope: I try to learn math in games as much as I can.
 
 - :zap: Working on a procedural world generator using voxel graphics, overlapping many different perlin noises, to obtain interesting effects <a href="https://github.com/MyKarcio123/MinecraftClone"> <img src="https://docs.unity3d.com/StaticFiles/ScriptRefImages/PerlinExample.png" width="30"> </a>.
